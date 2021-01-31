@@ -10,7 +10,6 @@ export default function SummaryForm() {
       I agree to <span style={{ color: "blue" }}>Terms and Conditions</span>
     </span>
   );
-
   return (
     <Form>
       <Form.Group controlId="terms-and-conditions">
